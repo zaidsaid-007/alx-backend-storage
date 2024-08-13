@@ -1,2 +1,3 @@
-#!/usr/bin/env python3
-show databases;
+#!/bin/bash
+echo "show dbs"
+
