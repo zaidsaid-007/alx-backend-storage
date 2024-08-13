@@ -1,0 +1,4 @@
+
+// use or create mongod database
+
+use my_db;

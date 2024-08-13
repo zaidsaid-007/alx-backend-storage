@@ -1,2 +1,4 @@
-#!/bin/bash
-echo "show dbs"
+//show all databases
+
+show databases;
+
